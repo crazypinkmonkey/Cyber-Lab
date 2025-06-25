@@ -73,3 +73,5 @@ Linux Command-Line Essentials: Solidifying my knowledge of ls, cd, cat, and find
 Troubleshooting: The most important lesson was the iterative process of identifying errors, re-evaluating assumptions, and meticulously checking details like file paths and formats. This ability to debug my own process is vital.
 
 The "Low-Hanging Fruit" Principle: Sometimes, the simplest vulnerability (like a default or blank password) is the key.
+
+here is the proof - https://www.hackthebox.com/achievement/machine/2424577/394
